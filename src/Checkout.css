@@ -1,0 +1,30 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+  
+    height: max-content;
+    min-height: 70vh;
+}
+
+.checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout__paddingLeft {
+    padding-left: 10px;
+    color: black;
+    font-family: cursive;
+}
+
+.checkout__text {
+    color: white;
+}
+
+.checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    color: black !important;
+    border-bottom: 1px solid lightgray;
+    font-family: cursive;
+}
